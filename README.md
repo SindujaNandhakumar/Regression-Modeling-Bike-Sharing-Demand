@@ -34,8 +34,6 @@ The Decision Tree Regressor stands out as the best model among those we tested b
 
 **Part 4**: Model Evaluation
 
-**Part 5**: Insights and Recommendations
-
 **Conclusion**:
 The predictive model for bike-sharing demand will enable the Cook County Planning and Development Department to optimize bike distribution, improve user satisfaction, and support sustainable urban mobility initiatives. The model's performance on external datasets, such as Kaggle, with an 80% accuracy, demonstrates its robustness and reliability in real-world applications.
 
